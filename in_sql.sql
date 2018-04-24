@@ -1,0 +1,1 @@
+SELECT * FROM DTI.DTI_DW_TRADES where rownum<20
