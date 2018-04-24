@@ -1,1 +1,1 @@
-SELECT * FROM DTI.DTI_DW_TRADES where rownum<20
+SELECT * FROM TEST.TEST_TRADES where rownum<20
